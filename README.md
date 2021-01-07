@@ -5,3 +5,5 @@ We used firebase as backend.
 
 It is basically a burger ordering process. You choose the ingredients and then follow the order links.
 You can also see your orders in order link
+
+To run the project, please run npm install and then npm start.
